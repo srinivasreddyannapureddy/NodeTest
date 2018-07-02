@@ -1,0 +1,25 @@
+{
+  "name": "package1",
+  "version": "1.0.0",
+  "description": "This is a test Package",
+  "main": "app.js",
+  "scripts": {
+    "test": "Node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinivasreddyannapureddy/NodeTest.git"
+  },
+  "keywords": [
+    "Node",
+    "Github",
+    "Test",
+    "Examples"
+  ],
+  "author": "Srinivas <srinivas@ontyme.org> (ontyme.org)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srinivasreddyannapureddy/NodeTest/issues"
+  },
+  "homepage": "https://github.com/srinivasreddyannapureddy/NodeTest#readme"
+}
