@@ -21,5 +21,18 @@
   "bugs": {
     "url": "https://github.com/srinivasreddyannapureddy/NodeTest/issues"
   },
-  "homepage": "https://github.com/srinivasreddyannapureddy/NodeTest#readme"
+  "homepage": "https://github.com/srinivasreddyannapureddy/NodeTest#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
+    "jasmine": "^3.1.0",
+    "jasmine-node": "^1.15.0",
+    "mongodb": "^3.1.0",
+    "mongoose": "^5.2.0",
+    "promise": "^8.0.1",
+    "pug": "^2.0.3",
+    "q": "^1.5.1",
+    "request": "^2.87.0"
+  }
 }
